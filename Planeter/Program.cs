@@ -120,7 +120,7 @@ namespace Planeter
             neptune.RotationPeriod = 16.1f;
             neptune.DayLength = 16.1f;
             neptune.SunDistance = 4495.1f;
-            neptune.OrbitalPeriod = 59.8f;
+            neptune.OrbitalPeriod = 59800f;
             neptune.OrbitalVelocity = 5.4f;
             neptune.MTemp = -200;
             neptune.Moons = 14;
@@ -134,7 +134,7 @@ namespace Planeter
             pluto.RotationPeriod = -153.3f;
             pluto.DayLength = 153.3f;
             pluto.SunDistance = 5906.4f;
-            pluto.OrbitalPeriod = 90.56f;
+            pluto.OrbitalPeriod = 905600f;
             pluto.OrbitalVelocity = 4.7f;
             pluto.MTemp = -225;
             pluto.Moons = 5;
